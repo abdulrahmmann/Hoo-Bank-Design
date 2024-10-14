@@ -1,7 +1,7 @@
 export function Stats() {
     return (
         <section id={"Stats-section"} className={`mt-4 sm:mt-16 relative`}>
-            <div className={`flex flex-col ss:flex-row flex-wrap justify-between items-center`}>
+            <div className={`flex flex-col sm:flex-row flex-wrap justify-between items-center`}>
                 <StatsComponent num={'3800+'} title={'User Active'}/>
                 <StatsComponent num={'230+'} title={'TRUSTED BY COMPANY'}/>
                 <StatsComponent num={'$230M+'} title={'TRANSACTION'}/>
