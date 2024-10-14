@@ -13,6 +13,7 @@ import {Footer} from "./components/Footer.jsx";
 function App() {
 
     return (
+
         <div className={`w-full bg-primary overflow-hidden`}>
 
             <div className={`px-6 sm:px-16 flex justify-center items-center`}>
